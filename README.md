@@ -5,7 +5,7 @@ The purpose of this analysis was to help our friend Dana create a website holdin
 We used our knowledge from Javascript and HTML to create an informative and interesting website for anyone fond of what lies beyond solar system.
 
 ### Results
-The results are listed below, and to perform a search you simply tyo a date, city name, state name, country name, or shape into the corresponding fields and hit enter. 
+The results are listed below, and to perform a search you simply type a date, city name, state name, country name, or shape into the corresponding fields and hit enter. 
 The page will reload with the results from your search!
 ![pageimage](https://user-images.githubusercontent.com/95730890/158107355-e374f8b8-b1db-4512-9cf8-e7a6f974af38.PNG)
 
